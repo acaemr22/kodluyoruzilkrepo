@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. Bu [patika.dev](https://app.patika.dev/emreaca) hesap linkim.
 
 ![Ekran Görüntüsü](https://github.com/acaemr22/kodluyoruzilkrepo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC_20230202_131121.png)
 
